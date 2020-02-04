@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+.hero-body{
+  background-image: url('../assets/second-background.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+.main-title, .title {
+  font-size: 90px;
+  margin: 20px;
+  letter-spacing: 5px;
+  color:white ;
+  text-decoration: underline;
+}
+
+
